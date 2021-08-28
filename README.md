@@ -1,7 +1,4 @@
-# Digital Clock
-<br><br>
-<h1 > CODE</h1><br>
-<img src = "DigitalClockCode.jpeg"><br>
+# Python Project
 <br>
-<h1> OUTPUT</h1><br>
-<img src = "DigitalClockOutput.jpeg">
+<h1>1. Digital Clock</h1><br>
+<img src = "Digital Clock/DigitalClockOutput.jpeg">
