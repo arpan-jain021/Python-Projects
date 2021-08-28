@@ -4,6 +4,6 @@
 <img src = "Digital Clock/DigitalClockOutput.jpeg">
 
 <h1>2. CountdownTimer</h1><br>
-<img src = "CountdownTimer/CountdownTimerCode.png">
+<img src = "CountdownTimer/CountdownTimerOutput.png">
 
 
